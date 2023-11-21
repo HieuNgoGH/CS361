@@ -23,6 +23,7 @@ Is there anything else your partner needs to know? Anything you’re worried abo
 --There is nothing else my partner needs to know about. We both have made sure the calls or access to our microservices are working perfectly.
 
 Instructions on how to REQUEST data from the microservice:
+
 --The programmer connects to the server. 
 ![alt text](./connect_server.JPG)
 
@@ -30,6 +31,7 @@ Instructions on how to REQUEST data from the microservice:
 ![alt text](./request_sample.JPG)
 
 Instructions on how to RECEIVE data from the microservice:
+
 --The receiving server takes the query of random or specific planets then draws the information from a cvs file then loads it.
 ![alt text](./receive_sample.JPG)
 
