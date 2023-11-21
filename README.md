@@ -32,7 +32,7 @@ Instructions on how to RECEIVE data from the microservice:
 
 
 
-
+![alt text](./microservice_uml.JPG)
 
 
 
