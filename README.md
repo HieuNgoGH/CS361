@@ -26,7 +26,7 @@ Instructions on how to REQUEST data from the microservice:
 --The programmer connects to the server. 
 ![alt text](./connect_server.JPG)
 
---The programmer connects to the server. Then out of two ways to select planets, random or specific, the programmer sends the planet variable to the server.
+--Then out of two ways to select planets, random or specific, the programmer sends the planet variable to the server.
 ![alt text](./request_sample.JPG)
 
 Instructions on how to RECEIVE data from the microservice:
