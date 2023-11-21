@@ -31,7 +31,7 @@ Instructions on how to RECEIVE data from the microservice:
 --The receiving server takes the query of random or specific planets then draws the information from a cvs file then loads it.
 
 
-![alt text](./project_uml.JPG)
+
 
 
 
